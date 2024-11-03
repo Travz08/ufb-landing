@@ -1,0 +1,16 @@
+{
+  "title": "Imagine...",
+  "text": "A bubble measuring 0.000001mm.. Even with a lineup of one million Ultra Fine Bubbles (UFB), the combined size would only reach approximately 1 mm. These bubbles are so minuscule that they elude visibility even under a microscope,  exemplifying the dimensions of UFB technology. In contrast to regular water  bubbles, which ascend and vanish in roughly 8 seconds, ultra-fine bubbles exhibit remarkable longevity, enduring underwater for about 1 to 2 years.",
+  "section": [
+    {
+      "title": "Why Antd?",
+      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why styled-components?",
+      "content": "Styled Components gives you total control over your components.",
+      "icon": "notes.svg"
+    }
+  ]
+}
