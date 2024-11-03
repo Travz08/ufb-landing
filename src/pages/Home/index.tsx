@@ -46,7 +46,7 @@ const Home = () => {
       <ContentBlock
         direction="left"
         title={ProductContent.title}
-        // content={ProductContent.text}
+        content={ProductContent.text}
         section={ProductContent.section}
         icon="/img/icons/splash.jpg"
         id="product"

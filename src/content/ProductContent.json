@@ -1,20 +1,27 @@
 {
   "title": "Why every home needs UFB",
-  "text": "If you are familiar with React, or SPA frameworks in general, there shouldn't be any confusing parts about this template. if not, you can always reach out to me and I'll try me best to answer your questions.",
+  "text": "",
   "section": [
     {
+      "title": "Deep Cleaning for Fabrics and Surfaces",
       "content": "UFB can penetrate deep into fabrics, surfaces, and other materials, leading to more effective cleaning. ",
       "icon": "fabric.png"
     },
     {
+      "title": "Purifying Water for Healthier Use",
+
       "content": "Removing Contaminants: Effective at removing impurities, bacteria, and other harmful substances from water.",
       "icon": "water.png"
     },
     {
+      "title": "Boosting Plant Health and Growth",
+
       "content": "UFB benefit home gardening and indoor plants by oxygenating water, promoting healthier and faster growth.",
       "icon": "plant.png"
     },
     {
+      "title": "Reducing Harmful Chemical Use",
+
       "content": "Reducing Chemical Usage: Less need for cleaning agents and personal care products that contain harmful chemicals.",
       "icon": "chemical.png"
     }
